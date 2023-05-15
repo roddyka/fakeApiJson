@@ -1,0 +1,16 @@
+{
+  "side_quests": [
+    {
+      "id": 1,
+      "title": "hello",
+      "message":"Hello! Would like to have a joint with me?",
+      "maps_url":"https://goo.gl/maps/EmHeGUDgJPydLuHz7",
+      "Award":"A kiss!",
+    }
+  ],
+  "profile": {
+    "name": "typicode",
+    "email":"email@email.com",
+    "phone":"+351000000000"
+  }
+}
